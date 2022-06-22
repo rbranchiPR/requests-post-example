@@ -1,2 +1,9 @@
-# requests-post-example
-Ejemplo práctico de post con la librería requests a un servidor básico de Flask
+pip install -r requirements.txt
+
+py (Windows) o python3 (Linux) o python (MacOS X)
+
+- py app.py
+
+Para las peticiones http
+
+- py test-request.py
